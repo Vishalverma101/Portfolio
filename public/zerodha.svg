@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="465" height="300" viewBox="0 0 465 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="465" height="300" fill="#0B1220"/>
+  <g transform="translate(24,26)">
+    <g>
+      <rect x="0" y="0" width="52" height="52" rx="12" fill="#1273FF"/>
+      <path d="M14 36 L26 14 L38 36 L26 30 z" fill="#fff"/>
+      <path d="M26 14 L26 30" stroke="#1273FF" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="70" y="34" font-family="Inter, Arial" font-weight="700" font-size="22" fill="#FFFFFF">Tradingly</text>
+    <text x="70" y="54" font-family="Inter, Arial" font-size="12" fill="#9BA4B5">Zerodha Clone — Trading Platform App</text>
+    <text x="0" y="112" font-family="Inter, Arial" font-size="32" font-weight="700" fill="#FFFFFF">Build. Trade.</text>
+    <text x="0" y="148" font-family="Inter, Arial" font-size="32" font-weight="700" fill="#FFFFFF">Grow.</text>
+    <text x="0" y="178" font-family="Inter, Arial" font-size="14" fill="#ABB4C5">Live charts, market data, portfolio tracking,</text>
+    <text x="0" y="196" font-family="Inter, Arial" font-size="14" fill="#ABB4C5">and lightning-fast order execution.</text>
+    <g transform="translate(0,212)">
+      <rect width="130" height="28" rx="6" fill="#151D33"/>
+      <text x="10" y="19" font-family="Inter" font-size="12" fill="#8CA3C1">React • Node • WebSockets</text>
+    </g>
+  </g>
+  <g transform="translate(270,24)">
+    <rect width="180" height="252" rx="16" fill="#111A2E"/>
+    <g transform="translate(12,12)">
+      <g stroke="#1A233B" stroke-width="1">
+        <line x1="0" y1="0" x2="156" y2="0"/>
+        <line x1="0" y1="36" x2="156" y2="36"/>
+        <line x1="0" y1="72" x2="156" y2="72"/>
+        <line x1="0" y1="108" x2="156" y2="108"/>
+        <line x1="0" y1="144" x2="156" y2="144"/>
+        <line x1="0" y1="180" x2="156" y2="180"/>
+      </g>
+      <g transform="translate(6,6)">
+        <rect x="0" y="64" width="8" height="28" rx="1" fill="#FF4D4D"/>
+        <line x1="4" y1="48" x2="4" y2="64" stroke="#FF4D4D" stroke-width="2"/>
+        <line x1="4" y1="92" x2="4" y2="112" stroke="#FF4D4D" stroke-width="2"/>
+      </g>
+      <g transform="translate(26,6)">
+        <rect x="0" y="80" width="8" height="12" rx="1" fill="#00D48C"/>
+        <line x1="4" y1="72" x2="4" y2="80" stroke="#00D48C" stroke-width="2"/>
+        <line x1="4" y1="92" x2="4" y2="104" stroke="#00D48C" stroke-width="2"/>
+      </g>
+      <g transform="translate(46,6)">
+        <rect x="0" y="56" width="8" height="36" rx="1" fill="#00D48C"/>
+        <line x1="4" y1="48" x2="4" y2="56" stroke="#00D48C" stroke-width="2"/>
+        <line x1="4" y1="92" x2="4" y2="120" stroke="#00D48C" stroke-width="2"/>
+      </g>
+      <g transform="translate(66,6)">
+        <rect x="0" y="72" width="8" height="24" rx="1" fill="#FF4D4D"/>
+        <line x1="4" y1="64" x2="4" y2="72" stroke="#FF4D4D" stroke-width="2"/>
+        <line x1="4" y1="96" x2="4" y2="116" stroke="#FF4D4D" stroke-width="2"/>
+      </g>
+      <g transform="translate(86,6)">
+        <rect x="0" y="44" width="8" height="56" rx="1" fill="#00D48C"/>
+        <line x1="4" y1="36" x2="4" y2="44" stroke="#00D48C" stroke-width="2"/>
+        <line x1="4" y1="100" x2="4" y2="116" stroke="#00D48C" stroke-width="2"/>
+      </g>
+
+      <polyline points="0,120 18,96 36,82 54,72 72,80 90,64 108,50 126,60 144,44 156,36"
+        fill="none" stroke="#3FA7FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <text x="0" y="200" font-family="Inter" font-size="10" fill="#AEB8CA">09:30</text>
+      <text x="68" y="200" font-family="Inter" font-size="10" fill="#AEB8CA">12:00</text>
+      <text x="130" y="200" font-family="Inter" font-size="10" fill="#AEB8CA">15:30</text>
+
+      <text x="0" y="10" font-family="Inter" font-size="10" fill="#7B8CAA">₹ 6,742</text>
+      <text x="110" y="10" font-family="Inter" font-size="10" fill="#00D48C">+2.3%</text>
+
+      <rect x="12" y="208" width="56" height="20" rx="6" fill="#00D48C"/>
+      <text x="34" y="222" font-family="Inter" font-size="11" fill="#fff" text-anchor="middle">Buy</text>
+
+      <rect x="82" y="208" width="56" height="20" rx="6" fill="#FF4D4D"/>
+      <text x="110" y="222" font-family="Inter" font-size="11" fill="#fff" text-anchor="middle">Sell</text>
+    </g>
+  </g>
+
+</svg>

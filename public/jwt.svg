@@ -1,0 +1,11 @@
+<svg width="36" height="36" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Six‑color JWT star -->
+  <path d="M256 0 L310 150 L256 220 L202 150 Z" fill="#00AEEF"/>
+  <path d="M512 180 L362 234 L292 180 L362 126 Z" fill="#5C2D91"/>
+  <path d="M362 512 L309 362 L363 292 L417 362 Z" fill="#EB1C2D"/>
+  <path d="M0 180 L150 234 L220 180 L150 126 Z" fill="#00AF54"/>
+  <path d="M150 512 L204 362 L150 292 L96 362 Z" fill="#F54276"/>
+  <path d="M256 220 L310 150 L362 234 L256 300 Z" fill="#FFCB05"/>
+
+</svg>
